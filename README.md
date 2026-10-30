@@ -1,5 +1,9 @@
 # 🫁 Asthma Disease Prediction System
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://asthma-prediction-system-h7h7gikcfxenqx3wcnrkm5.streamlit.app/)
+
+🔗 **Live demo:** https://asthma-prediction-system-h7h7gikcfxenqx3wcnrkm5.streamlit.app/
+
 A Data Science & Big Data (DSBD) mini project that predicts whether a patient has asthma from demographic, lifestyle, environmental, medical-history, lung-function and symptom data. The data pipeline is written in **PySpark**, models are compared with **scikit-learn / XGBoost**, and the best model is served through a **Streamlit** web app.
 
 > ⚠️ Educational project built on a public synthetic dataset. It is **not** a medical device and must not be used for real diagnosis.
@@ -94,7 +98,6 @@ Push the repo to GitHub, then deploy on [Streamlit Community Cloud](https://stre
 - Mobile-friendly UI and multilingual support
 
 ## Author
-<Your name>, T.Y. B.Tech CSD, K.K. Wagh Institute of Engineering Education and Research, Nashik
+Tosha Choudhary, T.Y. B.Tech CSD, K.K. Wagh Institute of Engineering Education and Research, Nashik
 
-## License
-MIT (or as required by your college)
+
