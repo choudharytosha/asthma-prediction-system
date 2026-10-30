@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
+spark-warehouse/
+metastore_db/
+derby.log
+# Large raw dataset: download from Kaggle instead (link in README)
+data/asthma_disease_data.csv
+data/raw/
