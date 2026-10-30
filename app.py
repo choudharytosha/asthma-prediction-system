@@ -11,7 +11,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Asthma Prediction System", page_icon="🫁", layout="centered")
 
-MODEL_PATH = Path(__file__).resolve().parent.parent / "models" / "asthma_model.joblib"
+MODEL_PATH = Path(__file__).resolve().parent / "asthma_model.joblib"
 
 
 @st.cache_resource
